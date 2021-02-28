@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fae800b-638c-437e-81f2-86a75cec2d9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Scala Worksheet" />
+        <option value="Package Object" />
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Source\Java\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1p6uQaahbcpBfgHTjEnldKEH14w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestLoop">
+    <configuration name="TestEmbeddedHBase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="embedded-hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iiichz.embeddedhbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iiichz.embeddedhbase" />
+      <option name="MAIN_CLASS_NAME" value="com.iiichz.embeddedhbase.TestEmbeddedHBase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmbeddedHTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="embedded-hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iiichz.embeddedhbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iiichz.embeddedhbase" />
+      <option name="MAIN_CLASS_NAME" value="com.iiichz.embeddedhbase.TestEmbeddedHTable" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="embedded-hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iiichz.embeddedhbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iiichz.embeddedhbase" />
+      <option name="MAIN_CLASS_NAME" value="com.iiichz.embeddedhbase.TestLoop" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestLoop" />
+        <item itemvalue="JUnit.TestEmbeddedHTable" />
+        <item itemvalue="JUnit.TestEmbeddedHBase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fae800b-638c-437e-81f2-86a75cec2d9f" name="Default Changelist" comment="" />
+      <created>1614515845395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614515845395</updated>
+      <workItem from="1614515847743" duration="218000" />
+      <workItem from="1614516067967" duration="628000" />
+      <workItem from="1614516720613" duration="3560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="398" key="#com.intellij.ide.util.MemberChooser" timestamp="1614517672799">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="398" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614517672799" />
+    <state x="900" y="378" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1614517152615">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="900" y="378" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614517152615" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1614516865466">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614516865466" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1614520285491">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614520285491" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1614520285489">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614520285489" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1614520285488">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614520285488" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1614520285490">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614520285490" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1614518998561">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614518998561" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1614520266506">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1614520266506" />
+  </component>
+</project>
